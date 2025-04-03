@@ -12,6 +12,7 @@ This project analyzes **customer activity and transaction patterns** to provide 
 `Problem_Statement.docx` → Project objectives and key questions.  
 `INSIGHTS_AND_RECOMMENDATIONS.docx` → Findings and suggestions.  
 `Bank_Customer_and_Transactions_dashboard` → The Power BI file, can be accessed if you have Power BI installed on your laptop or desktop.
+
 [![View Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMjJkM2VmMmMtMDJhZS00ZDJkLTkwNDQtYTI1MmMxMThkODY5IiwidCI6IjNkMDM5YWFlLWE5NGUtNGViMi1iNjVkLWQzYzFhMjU5MmU1YyJ9&disablecdnExpiration=1743738548)
 
 ---
