@@ -33,9 +33,13 @@ This project analyzes **customer activity and transaction patterns** to provide 
 
 ## Recommendations
 **Increase Internal Transfers** → Offer lower fees and faster processing for bank-to-bank transfers within Emerald Digital Bank.
+
 **Boost Inward Transfers** → Provide incentives for deposits and strengthen partnerships with remittance companies.
+
 **Capitalize on Seasonal Spikes** → Launch promotions in **Q3 and Q4** to maximize customer engagement.
+
 **Address Q1 Drop-off** → Implement **retention strategies** like fee waivers or cashback for early-year transactions.
+
 **Target High-Idle Segments** → Encourage young customers (16–30) and Tier 0 users to log in more often with gamified engagement, push notifications, and rewards.
 
 ---
